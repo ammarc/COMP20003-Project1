@@ -1,0 +1,427 @@
+Katherine --> yelping_since: 2004 10 || votes:  funny 11 useful 34 cool 13  || name: Katherine || elite:  2005  || type: user || compliments:  cute 2 plain 2 writer 2 note 1 hot 1 more 1 cool 1  || fans: 4 || average_stars: 3 8 || review_count: 66 || 
+Katherine --> yelping_since: 2008 11 || votes:  funny 21 useful 32 cool 7  || name: Katherine || type: user || compliments:  funny 1 more 1  || fans: 1 || average_stars: 3 93 || review_count: 14 || 
+Katherine --> yelping_since: 2015 06 || votes:  funny 0 useful 1 cool 2  || name: Katherine || type: user || compliments:  cool 2  || fans: 0 || average_stars: 4 5 || review_count: 6 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2013 07 || votes:  funny 0 useful 1 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 3 || 
+Katherine --> yelping_since: 2010 10 || votes:  funny 3 useful 3 cool 3  || name: Katherine || type: user || fans: 0 || average_stars: 2 5 || review_count: 6 || 
+Katherine --> yelping_since: 2010 10 || votes:  funny 6 useful 33 cool 10  || name: Katherine || type: user || compliments:  note 1 hot 2 more 2 cool 2  || fans: 0 || average_stars: 3 0 || review_count: 29 || 
+Katherine --> yelping_since: 2015 02 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2012 04 || votes:  funny 0 useful 3 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2010 07 || votes:  funny 5 useful 56 cool 17  || name: Katherine || type: user || fans: 0 || average_stars: 2 97 || review_count: 30 || 
+Katherine --> yelping_since: 2010 04 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || compliments:  note 1 cool 1  || fans: 0 || average_stars: 1 0 || review_count: 3 || 
+Katherine --> yelping_since: 2014 04 || votes:  funny 8 useful 10 cool 2  || name: Katherine || type: user || compliments:  note 1 cool 1  || fans: 1 || average_stars: 3 62 || review_count: 7 || 
+Katherine --> yelping_since: 2011 07 || votes:  funny 2 useful 13 cool 2  || name: Katherine || type: user || compliments:  note 1 hot 1  || fans: 0 || average_stars: 2 29 || review_count: 7 || 
+Katherine --> yelping_since: 2014 10 || votes:  funny 0 useful 5 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 4 25 || review_count: 4 || 
+Katherine --> yelping_since: 2013 01 || votes:  funny 1 useful 4 cool 2  || name: Katherine || type: user || compliments:  plain 1  || fans: 1 || average_stars: 4 5 || review_count: 6 || 
+Katherine --> yelping_since: 2010 02 || votes:  funny 5 useful 44 cool 8  || name: Katherine || type: user || compliments:  plain 2  || fans: 1 || average_stars: 3 6 || review_count: 38 || 
+Katherine --> yelping_since: 2011 01 || votes:  funny 0 useful 1 cool 2  || name: Katherine || type: user || compliments:  plain 1 cool 1  || fans: 5 || average_stars: 5 0 || review_count: 6 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 0 || review_count: 1 || 
+Katherine --> yelping_since: 2009 08 || votes:  funny 1 useful 5 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 3 89 || review_count: 9 || 
+Katherine --> yelping_since: 2013 12 || votes:  funny 1 useful 9 cool 3  || name: Katherine || type: user || fans: 1 || average_stars: 3 76 || review_count: 21 || 
+Katherine --> yelping_since: 2011 01 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2014 04 || votes:  funny 0 useful 3 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 2 || 
+Katherine --> yelping_since: 2009 07 || votes:  funny 153 useful 821 cool 151  || name: Katherine || elite:  2011 2013  || type: user || compliments:  funny 2 plain 11 writer 15 list 1 note 4 hot 6 cool 14 more 5  || fans: 8 || average_stars: 3 54 || review_count: 100 || 
+Katherine --> yelping_since: 2008 12 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 5 || 
+Katherine --> yelping_since: 2008 12 || votes:  funny 187 useful 377 cool 149  || name: Katherine || elite:  2010 2011 2012 2013  || type: user || compliments:  funny 8 cute 1 plain 13 writer 13 list 1 note 13 photos 2 hot 23 more 2 cool 24  || fans: 10 || average_stars: 3 49 || review_count: 297 || 
+Katherine --> yelping_since: 2011 09 || votes:  funny 17 useful 43 cool 11  || name: Katherine || elite:  2015  || type: user || compliments:  profile 1 photos 2 hot 1 note 1 writer 2  || fans: 0 || average_stars: 3 27 || review_count: 44 || 
+Katherine --> yelping_since: 2014 01 || votes:  funny 0 useful 5 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 3 || 
+Katherine --> yelping_since: 2013 06 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 09 || votes:  funny 15 useful 73 cool 19  || name: Katherine || type: user || compliments:  plain 3 writer 1  || fans: 0 || average_stars: 4 27 || review_count: 55 || 
+Katherine --> yelping_since: 2012 01 || votes:  funny 5 useful 9 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 1 || review_count: 10 || 
+Katherine --> yelping_since: 2012 09 || votes:  funny 2 useful 7 cool 1  || name: Katherine || type: user || compliments:  plain 1  || fans: 1 || average_stars: 3 88 || review_count: 7 || 
+Katherine --> yelping_since: 2015 06 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 01 || votes:  funny 4 useful 51 cool 3  || name: Katherine || type: user || fans: 0 || average_stars: 3 59 || review_count: 15 || 
+Katherine --> yelping_since: 2013 08 || votes:  funny 9 useful 11 cool 10  || name: Katherine || type: user || compliments:  funny 1 plain 3 writer 1 note 1 photos 1 cool 1  || fans: 1 || average_stars: 2 92 || review_count: 13 || 
+Katherine --> yelping_since: 2012 11 || votes:  funny 1 useful 51 cool 4  || name: Katherine || type: user || compliments:  note 2  || fans: 0 || average_stars: 3 07 || review_count: 45 || 
+Katherine --> yelping_since: 2009 08 || votes:  funny 3 useful 12 cool 4  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 3 64 || review_count: 25 || 
+Katherine --> yelping_since: 2011 11 || votes:  funny 0 useful 11 cool 0  || name: Katherine || type: user || fans: 1 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2013 12 || votes:  funny 2 useful 21 cool 13  || name: Katherine || type: user || compliments:  funny 2 cool 1 writer 2 plain 1 more 1  || fans: 2 || average_stars: 3 95 || review_count: 35 || 
+Katherine --> yelping_since: 2014 05 || votes:  funny 1 useful 0 cool 4  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 5 0 || review_count: 4 || 
+Katherine --> yelping_since: 2011 09 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 2 || 
+Katherine --> yelping_since: 2009 08 || votes:  funny 1 useful 4 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2012 01 || votes:  funny 0 useful 4 cool 0  || name: Katherine || type: user || fans: 1 || average_stars: 3 92 || review_count: 12 || 
+Katherine --> yelping_since: 2006 11 || votes:  funny 117 useful 317 cool 181  || name: Katherine || type: user || compliments:  funny 11 plain 22 writer 6 note 14 hot 13 cool 35 more 5  || fans: 12 || average_stars: 4 25 || review_count: 220 || 
+Katherine --> yelping_since: 2013 02 || votes:  funny 0 useful 16 cool 1  || name: Katherine || type: user || fans: 1 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2012 01 || votes:  funny 15 useful 52 cool 18  || name: Katherine || type: user || compliments:  plain 1 writer 2  || fans: 0 || average_stars: 4 29 || review_count: 49 || 
+Katherine --> yelping_since: 2012 04 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2009 08 || votes:  funny 5 useful 31 cool 5  || name: Katherine || type: user || compliments:  note 2 plain 1 cool 3  || fans: 1 || average_stars: 4 0 || review_count: 33 || 
+Katherine --> yelping_since: 2013 02 || votes:  funny 37 useful 96 cool 42  || name: Katherine || type: user || compliments:  note 1 funny 1 cool 1 more 1  || fans: 1 || average_stars: 4 45 || review_count: 54 || 
+Katherine --> yelping_since: 2014 06 || votes:  funny 0 useful 0 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 4 || 
+Katherine --> yelping_since: 2012 01 || votes:  funny 20 useful 43 cool 5  || name: Katherine || type: user || fans: 0 || average_stars: 3 06 || review_count: 29 || 
+Katherine --> yelping_since: 2012 06 || votes:  funny 1 useful 5 cool 3  || name: Katherine || type: user || fans: 0 || average_stars: 4 5 || review_count: 8 || 
+Katherine --> yelping_since: 2013 04 || votes:  funny 2 useful 3 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 67 || review_count: 6 || 
+Katherine --> yelping_since: 2012 10 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2010 11 || votes:  funny 0 useful 5 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 4 09 || review_count: 13 || 
+Katherine --> yelping_since: 2014 03 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2008 09 || votes:  funny 2 useful 13 cool 9  || name: Katherine || type: user || compliments:  plain 1 hot 1 cool 2  || fans: 1 || average_stars: 4 55 || review_count: 11 || 
+Katherine --> yelping_since: 2011 08 || votes:  funny 3 useful 18 cool 6  || name: Katherine || type: user || fans: 0 || average_stars: 3 93 || review_count: 11 || 
+Katherine --> yelping_since: 2013 10 || votes:  funny 2 useful 13 cool 5  || name: Katherine || type: user || fans: 0 || average_stars: 4 12 || review_count: 24 || 
+Katherine --> yelping_since: 2011 04 || votes:  funny 27 useful 89 cool 26  || name: Katherine || type: user || compliments:  cute 1 plain 2 note 3 hot 2 cool 1 more 1  || fans: 2 || average_stars: 3 8 || review_count: 63 || 
+Katherine --> yelping_since: 2007 02 || votes:  funny 983 useful 1542 cool 1400  || name: Katherine || elite:  2007 2008 2009 2010  || type: user || compliments:  profile 5 cute 8 funny 108 plain 181 writer 29 list 1 note 82 photos 5 hot 130 cool 224 more 17  || fans: 20 || average_stars: 3 98 || review_count: 278 || 
+Katherine --> yelping_since: 2012 05 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 04 || votes:  funny 1 useful 8 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 3 83 || review_count: 6 || 
+Katherine --> yelping_since: 2013 11 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 02 || votes:  funny 6 useful 39 cool 8  || name: Katherine || type: user || compliments:  plain 1 cool 1  || fans: 2 || average_stars: 3 28 || review_count: 31 || 
+Katherine --> yelping_since: 2014 01 || votes:  funny 0 useful 11 cool 0  || name: Katherine || type: user || compliments:  list 1  || fans: 1 || average_stars: 4 2 || review_count: 10 || 
+Katherine --> yelping_since: 2012 01 || votes:  funny 6 useful 13 cool 3  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 3 58 || review_count: 12 || 
+Katherine --> yelping_since: 2007 04 || votes:  funny 330 useful 1010 cool 699  || name: Katherine || elite:  2007 2008 2009 2010 2011  || type: user || compliments:  profile 2 cute 9 funny 12 plain 40 writer 41 list 10 note 24 photos 3 hot 100 cool 88 more 8  || fans: 38 || average_stars: 3 95 || review_count: 659 || 
+Katherine --> yelping_since: 2011 07 || votes:  funny 1 useful 16 cool 2  || name: Katherine || type: user || compliments:  note 1 cool 2  || fans: 0 || average_stars: 3 75 || review_count: 15 || 
+Katherine --> yelping_since: 2014 03 || votes:  funny 0 useful 0 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2013 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 3 || 
+Katherine --> yelping_since: 2013 02 || votes:  funny 3 useful 12 cool 3  || name: Katherine || type: user || fans: 1 || average_stars: 3 33 || review_count: 12 || 
+Katherine --> yelping_since: 2010 12 || votes:  funny 5 useful 41 cool 14  || name: Katherine || type: user || compliments:  note 1 writer 2 cool 1  || fans: 0 || average_stars: 3 37 || review_count: 18 || 
+Katherine --> yelping_since: 2013 08 || votes:  funny 3 useful 12 cool 5  || name: Katherine || type: user || fans: 0 || average_stars: 3 56 || review_count: 18 || 
+Katherine --> yelping_since: 2015 06 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 5 || review_count: 2 || 
+Katherine --> yelping_since: 2014 12 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 1 || 
+Katherine --> yelping_since: 2015 12 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2013 06 || votes:  funny 11 useful 19 cool 9  || name: Katherine || type: user || compliments:  plain 2 cool 1  || fans: 0 || average_stars: 4 37 || review_count: 52 || 
+Katherine --> yelping_since: 2012 02 || votes:  funny 2 useful 10 cool 3  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 3 0 || review_count: 9 || 
+Katherine --> yelping_since: 2015 01 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || compliments:  note 1  || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2013 02 || votes:  funny 5 useful 53 cool 7  || name: Katherine || type: user || compliments:  plain 1 cool 1  || fans: 1 || average_stars: 4 2 || review_count: 20 || 
+Katherine --> yelping_since: 2011 06 || votes:  funny 0 useful 7 cool 5  || name: Katherine || type: user || fans: 1 || average_stars: 2 83 || review_count: 6 || 
+Katherine --> yelping_since: 2014 06 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 2 || review_count: 5 || 
+Katherine --> yelping_since: 2012 06 || votes:  funny 2 useful 9 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 12 || 
+Katherine --> yelping_since: 2009 02 || votes:  funny 0 useful 27 cool 9  || name: Katherine || type: user || compliments:  more 1 cool 1  || fans: 1 || average_stars: 4 33 || review_count: 15 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 1 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 5 || review_count: 2 || 
+Katherine --> yelping_since: 2013 02 || votes:  funny 0 useful 7 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 4 64 || review_count: 10 || 
+Katherine --> yelping_since: 2012 11 || votes:  funny 0 useful 7 cool 5  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 4 83 || review_count: 13 || 
+Katherine --> yelping_since: 2008 02 || votes:  funny 4 useful 6 cool 2  || name: Katherine || type: user || compliments:  hot 2 cool 2  || fans: 0 || average_stars: 4 43 || review_count: 7 || 
+Katherine --> yelping_since: 2015 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 3 || 
+Katherine --> yelping_since: 2013 12 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 3 || 
+Katherine --> yelping_since: 2012 01 || votes:  funny 3 useful 13 cool 8  || name: Katherine || type: user || fans: 1 || average_stars: 4 0 || review_count: 6 || 
+Katherine --> yelping_since: 2009 09 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 5 || review_count: 2 || 
+Katherine --> yelping_since: 2013 12 || votes:  funny 1 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 5 || review_count: 2 || 
+Katherine --> yelping_since: 2007 04 || votes:  funny 6 useful 23 cool 9  || name: Katherine || type: user || fans: 0 || average_stars: 3 88 || review_count: 64 || 
+Katherine --> yelping_since: 2014 06 || votes:  funny 10 useful 53 cool 7  || name: Katherine || type: user || compliments:  plain 1  || fans: 2 || average_stars: 3 69 || review_count: 35 || 
+Katherine --> yelping_since: 2012 11 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 3 || 
+Katherine --> yelping_since: 2007 04 || votes:  funny 4824 useful 7840 cool 6950  || name: Katherine || elite:  2008 2009 2010 2011 2012 2013 2014 2015  || type: user || compliments:  profile 274 cute 105 funny 470 plain 1702 writer 517 list 17 note 495 photos 85 hot 1381 more 121 cool 1910  || fans: 50 || average_stars: 3 95 || review_count: 1047 || 
+Katherine --> yelping_since: 2015 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 4 || 
+Katherine --> yelping_since: 2012 04 || votes:  funny 0 useful 5 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 3 4 || review_count: 5 || 
+Katherine --> yelping_since: 2010 03 || votes:  funny 0 useful 6 cool 3  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2009 02 || votes:  funny 119 useful 246 cool 128  || name: Katherine || elite:  2014  || type: user || compliments:  profile 5 funny 7 cute 7 plain 33 writer 14 note 17 photos 41 hot 37 cool 38 more 4  || fans: 8 || average_stars: 4 08 || review_count: 127 || 
+Katherine --> yelping_since: 2009 09 || votes:  funny 73 useful 228 cool 98  || name: Katherine || elite:  2013 2014  || type: user || compliments:  profile 1 funny 2 cute 4 plain 8 writer 8 note 4 photos 3 hot 5 more 2 cool 10  || fans: 6 || average_stars: 3 95 || review_count: 64 || 
+Katherine --> yelping_since: 2015 01 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2007 05 || votes:  funny 6 useful 27 cool 20  || name: Katherine || type: user || compliments:  hot 1 writer 1 cool 3  || fans: 1 || average_stars: 3 91 || review_count: 11 || 
+Katherine --> yelping_since: 2013 06 || votes:  funny 1 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2011 11 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2009 09 || votes:  funny 50 useful 227 cool 73  || name: Katherine || elite:  2014 2015  || type: user || compliments:  funny 1 plain 2 writer 1 photos 1 hot 2 more 1 cool 6  || fans: 2 || average_stars: 3 82 || review_count: 162 || 
+Katherine --> yelping_since: 2013 01 || votes:  funny 0 useful 4 cool 1  || name: Katherine || type: user || compliments:  writer 1  || fans: 0 || average_stars: 2 33 || review_count: 5 || 
+Katherine --> yelping_since: 2010 11 || votes:  funny 1 useful 12 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 4 26 || review_count: 31 || 
+Katherine --> yelping_since: 2015 06 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 02 || votes:  funny 0 useful 4 cool 0  || name: Katherine || type: user || compliments:  note 1 cool 1  || fans: 1 || average_stars: 5 0 || review_count: 4 || 
+Katherine --> yelping_since: 2012 07 || votes:  funny 46 useful 202 cool 42  || name: Katherine || type: user || compliments:  profile 1 funny 1 plain 17 writer 2 list 1 note 3 hot 1 cool 6  || fans: 2 || average_stars: 3 66 || review_count: 103 || 
+Katherine --> yelping_since: 2014 09 || votes:  funny 9 useful 32 cool 14  || name: Katherine || type: user || compliments:  note 1 photos 1  || fans: 1 || average_stars: 3 33 || review_count: 35 || 
+Katherine --> yelping_since: 2012 12 || votes:  funny 0 useful 6 cool 1  || name: Katherine || type: user || compliments:  cool 1  || fans: 1 || average_stars: 3 0 || review_count: 4 || 
+Katherine --> yelping_since: 2012 03 || votes:  funny 58 useful 361 cool 181  || name: Katherine || elite:  2012 2013 2014 2015  || type: user || compliments:  profile 2 funny 2 plain 4 writer 3 note 5 photos 1 more 3 cool 12  || fans: 4 || average_stars: 3 92 || review_count: 233 || 
+Katherine --> yelping_since: 2011 08 || votes:  funny 185 useful 818 cool 287  || name: Katherine || elite:  2011 2012 2013 2014 2015  || type: user || compliments:  funny 8 cute 1 plain 11 writer 24 note 13 photos 1 hot 17 cool 23 more 3  || fans: 17 || average_stars: 3 84 || review_count: 562 || 
+Katherine --> yelping_since: 2012 01 || votes:  funny 4 useful 1 cool 0  || name: Katherine || type: user || compliments:  more 1  || fans: 0 || average_stars: 5 0 || review_count: 3 || 
+Katherine --> yelping_since: 2011 08 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2013 06 || votes:  funny 1 useful 3 cool 1  || name: Katherine || type: user || compliments:  hot 1 writer 1  || fans: 0 || average_stars: 4 38 || review_count: 8 || 
+Katherine --> yelping_since: 2012 06 || votes:  funny 22 useful 34 cool 4  || name: Katherine || type: user || compliments:  funny 1 cool 1 cute 1 more 1  || fans: 1 || average_stars: 2 96 || review_count: 22 || 
+Katherine --> yelping_since: 2012 07 || votes:  funny 6 useful 44 cool 22  || name: Katherine || type: user || compliments:  plain 1  || fans: 1 || average_stars: 3 99 || review_count: 75 || 
+Katherine --> yelping_since: 2009 02 || votes:  funny 1 useful 8 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 92 || review_count: 13 || 
+Katherine --> yelping_since: 2012 03 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 4 || 
+Katherine --> yelping_since: 2015 03 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 5 || review_count: 2 || 
+Katherine --> yelping_since: 2013 02 || votes:  funny 2 useful 24 cool 1  || name: Katherine || type: user || compliments:  plain 1 hot 1  || fans: 0 || average_stars: 2 83 || review_count: 6 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 4 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2009 02 || votes:  funny 1 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 67 || review_count: 6 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 4 useful 5 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 2 75 || review_count: 8 || 
+Katherine --> yelping_since: 2013 12 || votes:  funny 13 useful 28 cool 13  || name: Katherine || type: user || compliments:  plain 1 writer 1  || fans: 1 || average_stars: 3 87 || review_count: 47 || 
+Katherine --> yelping_since: 2012 10 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 1 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 11 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 29 || review_count: 7 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 05 || votes:  funny 6 useful 13 cool 6  || name: Katherine || type: user || fans: 1 || average_stars: 4 16 || review_count: 19 || 
+Katherine --> yelping_since: 2012 02 || votes:  funny 7 useful 72 cool 13  || name: Katherine || elite:  2012  || type: user || compliments:  funny 1 writer 1 plain 2  || fans: 0 || average_stars: 4 02 || review_count: 83 || 
+Katherine --> yelping_since: 2012 03 || votes:  funny 15 useful 40 cool 7  || name: Katherine || type: user || compliments:  profile 1 plain 1  || fans: 2 || average_stars: 4 15 || review_count: 26 || 
+Katherine --> yelping_since: 2013 04 || votes:  funny 8 useful 24 cool 8  || name: Katherine || type: user || fans: 0 || average_stars: 4 02 || review_count: 45 || 
+Katherine --> yelping_since: 2009 04 || votes:  funny 4 useful 12 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 3 67 || review_count: 3 || 
+Katherine --> yelping_since: 2012 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2014 05 || votes:  funny 12 useful 57 cool 23  || name: Katherine || elite:  2015  || type: user || compliments:  funny 1 cute 1 plain 3 writer 6 note 2 hot 4 cool 3  || fans: 4 || average_stars: 3 93 || review_count: 43 || 
+Katherine --> yelping_since: 2012 04 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 4 || 
+Katherine --> yelping_since: 2015 04 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 33 || review_count: 3 || 
+Katherine --> yelping_since: 2014 01 || votes:  funny 1 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2010 04 || votes:  funny 129 useful 381 cool 209  || name: Katherine || elite:  2014 2015  || type: user || compliments:  cute 3 funny 5 plain 2 writer 22 note 3 hot 19 more 1 cool 26  || fans: 17 || average_stars: 4 41 || review_count: 143 || 
+Katherine --> yelping_since: 2013 05 || votes:  funny 5 useful 13 cool 4  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 3 5 || review_count: 12 || 
+Katherine --> yelping_since: 2011 01 || votes:  funny 0 useful 4 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 4 || 
+Katherine --> yelping_since: 2007 08 || votes:  funny 218 useful 515 cool 182  || name: Katherine || type: user || compliments:  funny 16 cute 1 plain 16 writer 20 list 1 note 8 photos 11 hot 27 more 2 cool 29  || fans: 15 || average_stars: 3 63 || review_count: 160 || 
+Katherine --> yelping_since: 2009 03 || votes:  funny 0 useful 7 cool 2  || name: Katherine || type: user || fans: 1 || average_stars: 4 62 || review_count: 13 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 1 useful 7 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 13 || review_count: 16 || 
+Katherine --> yelping_since: 2014 05 || votes:  funny 2 useful 2 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 3 4 || review_count: 5 || 
+Katherine --> yelping_since: 2015 02 || votes:  funny 0 useful 3 cool 0  || name: Katherine || type: user || fans: 1 || average_stars: 3 33 || review_count: 3 || 
+Katherine --> yelping_since: 2014 04 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 3 useful 2 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2010 04 || votes:  funny 4 useful 14 cool 4  || name: Katherine || type: user || compliments:  more 1  || fans: 0 || average_stars: 3 9 || review_count: 10 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2011 02 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2009 03 || votes:  funny 11 useful 23 cool 8  || name: Katherine || type: user || compliments:  note 2  || fans: 0 || average_stars: 3 78 || review_count: 18 || 
+Katherine --> yelping_since: 2013 05 || votes:  funny 0 useful 7 cool 4  || name: Katherine || type: user || fans: 0 || average_stars: 3 56 || review_count: 9 || 
+Katherine --> yelping_since: 2010 11 || votes:  funny 11 useful 64 cool 29  || name: Katherine || type: user || compliments:  funny 1 plain 4 note 1 photos 1 hot 1 cool 2 more 1  || fans: 0 || average_stars: 3 9 || review_count: 69 || 
+Katherine --> yelping_since: 2014 01 || votes:  funny 18 useful 28 cool 6  || name: Katherine || type: user || compliments:  note 2 more 1  || fans: 1 || average_stars: 3 09 || review_count: 43 || 
+Katherine --> yelping_since: 2014 11 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2012 01 || votes:  funny 1 useful 1 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 3 || 
+Katherine --> yelping_since: 2013 12 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 29 || review_count: 7 || 
+Katherine --> yelping_since: 2011 04 || votes:  funny 5 useful 49 cool 4  || name: Katherine || type: user || compliments:  plain 1 cool 1  || fans: 0 || average_stars: 3 75 || review_count: 52 || 
+Katherine --> yelping_since: 2011 10 || votes:  funny 0 useful 10 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 75 || review_count: 4 || 
+Katherine --> yelping_since: 2014 06 || votes:  funny 1 useful 2 cool 1  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 2 33 || review_count: 3 || 
+Katherine --> yelping_since: 2010 11 || votes:  funny 1 useful 12 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 83 || review_count: 6 || 
+Katherine --> yelping_since: 2011 09 || votes:  funny 2 useful 3 cool 3  || name: Katherine || type: user || compliments:  more 1  || fans: 0 || average_stars: 5 0 || review_count: 4 || 
+Katherine --> yelping_since: 2012 04 || votes:  funny 6 useful 27 cool 6  || name: Katherine || type: user || compliments:  note 2 plain 1 photos 2  || fans: 2 || average_stars: 2 72 || review_count: 25 || 
+Katherine --> yelping_since: 2015 03 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2007 11 || votes:  funny 778 useful 824 cool 410  || name: Katherine || type: user || compliments:  funny 37 cute 2 plain 71 writer 11 list 7 note 23 photos 4 hot 29 cool 51 more 5  || fans: 19 || average_stars: 3 73 || review_count: 209 || 
+Katherine --> yelping_since: 2011 08 || votes:  funny 159 useful 388 cool 182  || name: Katherine || elite:  2013 2014 2015  || type: user || compliments:  profile 6 funny 16 cute 1 plain 8 writer 17 note 8 photos 4 hot 16 more 3 cool 37  || fans: 14 || average_stars: 3 63 || review_count: 212 || 
+Katherine --> yelping_since: 2009 04 || votes:  funny 16 useful 61 cool 21  || name: Katherine || type: user || compliments:  funny 1 plain 2 writer 1 note 2 hot 2 cool 1 more 1  || fans: 0 || average_stars: 3 69 || review_count: 60 || 
+Katherine --> yelping_since: 2013 09 || votes:  funny 1 useful 0 cool 3  || name: Katherine || type: user || fans: 1 || average_stars: 4 32 || review_count: 25 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2015 04 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 02 || votes:  funny 2 useful 8 cool 3  || name: Katherine || type: user || compliments:  cool 1  || fans: 0 || average_stars: 2 86 || review_count: 7 || 
+Katherine --> yelping_since: 2008 04 || votes:  funny 53 useful 65 cool 36  || name: Katherine || type: user || compliments:  plain 1 writer 1 note 1 photos 1 hot 2 cool 3  || fans: 2 || average_stars: 3 38 || review_count: 237 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 0 useful 0 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 3 || 
+Katherine --> yelping_since: 2013 03 || votes:  funny 4 useful 4 cool 2  || name: Katherine || type: user || fans: 1 || average_stars: 3 31 || review_count: 15 || 
+Katherine --> yelping_since: 2011 04 || votes:  funny 1 useful 2 cool 3  || name: Katherine || type: user || fans: 0 || average_stars: 4 67 || review_count: 3 || 
+Katherine --> yelping_since: 2012 03 || votes:  funny 2 useful 9 cool 0  || name: Katherine || type: user || compliments:  plain 1  || fans: 1 || average_stars: 4 8 || review_count: 5 || 
+Katherine --> yelping_since: 2013 09 || votes:  funny 5 useful 16 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 2 91 || review_count: 22 || 
+Katherine --> yelping_since: 2011 06 || votes:  funny 1 useful 11 cool 3  || name: Katherine || type: user || compliments:  note 1 hot 1 cool 1  || fans: 3 || average_stars: 3 78 || review_count: 18 || 
+Katherine --> yelping_since: 2013 08 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 5 || review_count: 2 || 
+Katherine --> yelping_since: 2014 10 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 1 || 
+Katherine --> yelping_since: 2010 08 || votes:  funny 0 useful 10 cool 3  || name: Katherine || type: user || compliments:  writer 1 cool 1  || fans: 0 || average_stars: 3 56 || review_count: 18 || 
+Katherine --> yelping_since: 2013 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 08 || votes:  funny 1 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 0 || review_count: 4 || 
+Katherine --> yelping_since: 2014 06 || votes:  funny 1 useful 2 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 3 67 || review_count: 3 || 
+Katherine --> yelping_since: 2014 11 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 67 || review_count: 3 || 
+Katherine --> yelping_since: 2015 01 || votes:  funny 0 useful 1 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2011 06 || votes:  funny 109 useful 356 cool 94  || name: Katherine || elite:  2012 2013 2014 2015  || type: user || compliments:  profile 1 funny 2 plain 13 writer 8 note 9 photos 1 hot 10 cool 24  || fans: 7 || average_stars: 3 31 || review_count: 180 || 
+Katherine --> yelping_since: 2013 09 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 10 || votes:  funny 0 useful 12 cool 1  || name: Katherine || type: user || compliments:  note 1  || fans: 1 || average_stars: 4 36 || review_count: 11 || 
+Katherine --> yelping_since: 2010 04 || votes:  funny 129 useful 96 cool 76  || name: Katherine || type: user || compliments:  funny 4 cute 1 plain 5 writer 4 list 1 note 3 hot 2 more 2 cool 10  || fans: 2 || average_stars: 3 19 || review_count: 16 || 
+Katherine --> yelping_since: 2009 06 || votes:  funny 362 useful 604 cool 420  || name: Katherine || elite:  2009 2010 2011 2012 2013  || type: user || compliments:  profile 2 funny 20 cute 10 plain 29 writer 8 note 10 photos 10 hot 28 more 6 cool 68  || fans: 19 || average_stars: 4 05 || review_count: 182 || 
+Katherine --> yelping_since: 2012 12 || votes:  funny 16 useful 45 cool 8  || name: Katherine || type: user || fans: 0 || average_stars: 3 67 || review_count: 6 || 
+Katherine --> yelping_since: 2009 06 || votes:  funny 3 useful 28 cool 6  || name: Katherine || type: user || compliments:  note 1 cool 2 more 2  || fans: 1 || average_stars: 3 94 || review_count: 18 || 
+Katherine --> yelping_since: 2012 08 || votes:  funny 17 useful 73 cool 24  || name: Katherine || type: user || compliments:  plain 3 writer 3 list 1 note 1 cool 2 more 1  || fans: 3 || average_stars: 3 75 || review_count: 48 || 
+Katherine --> yelping_since: 2013 12 || votes:  funny 2 useful 4 cool 4  || name: Katherine || type: user || fans: 0 || average_stars: 4 08 || review_count: 13 || 
+Katherine --> yelping_since: 2013 11 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2012 01 || votes:  funny 1 useful 5 cool 1  || name: Katherine || type: user || compliments:  note 1  || fans: 0 || average_stars: 5 0 || review_count: 6 || 
+Katherine --> yelping_since: 2015 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 3 || 
+Katherine --> yelping_since: 2012 06 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 04 || votes:  funny 2 useful 14 cool 4  || name: Katherine || type: user || compliments:  hot 1 writer 1 more 1  || fans: 0 || average_stars: 3 25 || review_count: 8 || 
+Katherine --> yelping_since: 2015 12 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2012 12 || votes:  funny 0 useful 2 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 4 6 || review_count: 5 || 
+Katherine --> yelping_since: 2015 05 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 05 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 5 || review_count: 4 || 
+Katherine --> yelping_since: 2010 12 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 4 || 
+Katherine --> yelping_since: 2014 11 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 5 || review_count: 2 || 
+Katherine --> yelping_since: 2013 09 || votes:  funny 0 useful 4 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2015 04 || votes:  funny 1 useful 1 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2012 05 || votes:  funny 24 useful 80 cool 27  || name: Katherine || type: user || compliments:  plain 1 writer 2  || fans: 3 || average_stars: 3 84 || review_count: 48 || 
+Katherine --> yelping_since: 2014 03 || votes:  funny 0 useful 2 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 5 || review_count: 2 || 
+Katherine --> yelping_since: 2013 05 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || compliments:  cool 1  || fans: 0 || average_stars: 3 8 || review_count: 5 || 
+Katherine --> yelping_since: 2008 03 || votes:  funny 67 useful 122 cool 88  || name: Katherine || elite:  2014  || type: user || compliments:  note 4 more 2 hot 4 writer 4 cool 3  || fans: 5 || average_stars: 4 09 || review_count: 96 || 
+Katherine --> yelping_since: 2014 05 || votes:  funny 1 useful 11 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 38 || review_count: 14 || 
+Katherine --> yelping_since: 2009 05 || votes:  funny 6 useful 51 cool 21  || name: Katherine || type: user || compliments:  writer 1 cool 2  || fans: 0 || average_stars: 4 48 || review_count: 31 || 
+Katherine --> yelping_since: 2011 08 || votes:  funny 6 useful 12 cool 3  || name: Katherine || type: user || compliments:  profile 1  || fans: 0 || average_stars: 3 41 || review_count: 19 || 
+Katherine --> yelping_since: 2015 02 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 05 || votes:  funny 7 useful 18 cool 6  || name: Katherine || type: user || compliments:  plain 2  || fans: 0 || average_stars: 3 77 || review_count: 22 || 
+Katherine --> yelping_since: 2008 03 || votes:  funny 96 useful 145 cool 72  || name: Katherine || elite:  2009  || type: user || compliments:  cute 2 funny 5 plain 7 writer 3 list 1 note 3 hot 7 more 1 cool 23  || fans: 3 || average_stars: 3 53 || review_count: 107 || 
+Katherine --> yelping_since: 2008 03 || votes:  funny 701 useful 1290 cool 768  || name: Katherine || elite:  2009 2010 2011 2012 2013 2014 2015  || type: user || compliments:  profile 4 funny 28 plain 59 writer 33 list 1 note 33 photos 9 hot 32 more 8 cool 57  || fans: 27 || average_stars: 3 43 || review_count: 410 || 
+Katherine --> yelping_since: 2013 11 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 1 || 
+Katherine --> yelping_since: 2009 11 || votes:  funny 8 useful 15 cool 4  || name: Katherine || type: user || compliments:  plain 1 cool 1  || fans: 0 || average_stars: 3 85 || review_count: 13 || 
+Katherine --> yelping_since: 2011 04 || votes:  funny 0 useful 6 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 4 || 
+Katherine --> yelping_since: 2013 09 || votes:  funny 19 useful 56 cool 19  || name: Katherine || elite:  2014  || type: user || compliments:  profile 1 cute 1 funny 2 plain 2 writer 10 note 1 hot 1 cool 7  || fans: 1 || average_stars: 3 68 || review_count: 236 || 
+Katherine --> yelping_since: 2009 05 || votes:  funny 77 useful 120 cool 54  || name: Katherine || elite:  2011 2012  || type: user || compliments:  profile 1 funny 1 plain 2 writer 5 note 1 hot 5 cool 4 more 1  || fans: 4 || average_stars: 4 0 || review_count: 154 || 
+Katherine --> yelping_since: 2012 12 || votes:  funny 9 useful 59 cool 30  || name: Katherine || type: user || compliments:  note 2 plain 2 hot 2 writer 2 cool 1  || fans: 0 || average_stars: 4 14 || review_count: 72 || 
+Katherine --> yelping_since: 2015 10 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 2 || 
+Katherine --> yelping_since: 2012 11 || votes:  funny 1 useful 7 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 12 || review_count: 8 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 14 || review_count: 7 || 
+Katherine --> yelping_since: 2008 04 || votes:  funny 1 useful 13 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 1 83 || review_count: 6 || 
+Katherine --> yelping_since: 2014 03 || votes:  funny 0 useful 1 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2014 02 || votes:  funny 92 useful 421 cool 165  || name: Katherine || elite:  2014 2015  || type: user || compliments:  plain 7 writer 16 note 3 photos 2 hot 6 more 2 cool 9  || fans: 26 || average_stars: 4 48 || review_count: 257 || 
+Katherine --> yelping_since: 2009 12 || votes:  funny 0 useful 4 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2014 10 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2013 09 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 3 44 || review_count: 10 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 0 useful 5 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 3 || 
+Katherine --> yelping_since: 2014 12 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 3 || 
+Katherine --> yelping_since: 2012 06 || votes:  funny 0 useful 23 cool 2  || name: Katherine || type: user || compliments:  note 1 plain 1 writer 1  || fans: 1 || average_stars: 4 36 || review_count: 24 || 
+Katherine --> yelping_since: 2008 04 || votes:  funny 357 useful 793 cool 339  || name: Katherine || elite:  2009 2010 2011 2012 2013 2014 2015  || type: user || compliments:  funny 22 cute 4 plain 37 writer 11 note 30 hot 24 more 2 cool 34  || fans: 14 || average_stars: 3 75 || review_count: 564 || 
+Katherine --> yelping_since: 2011 10 || votes:  funny 1 useful 5 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 67 || review_count: 4 || 
+Katherine --> yelping_since: 2013 04 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 10 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2012 03 || votes:  funny 1 useful 14 cool 7  || name: Katherine || type: user || compliments:  writer 1  || fans: 0 || average_stars: 4 25 || review_count: 11 || 
+Katherine --> yelping_since: 2014 12 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 33 || review_count: 4 || 
+Katherine --> yelping_since: 2014 02 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 09 || votes:  funny 2 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 5 || review_count: 2 || 
+Katherine --> yelping_since: 2015 09 || votes:  funny 0 useful 3 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 03 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 08 || votes:  funny 1 useful 5 cool 5  || name: Katherine || type: user || compliments:  writer 1  || fans: 0 || average_stars: 4 71 || review_count: 7 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 3 || 
+Katherine --> yelping_since: 2014 06 || votes:  funny 2 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 0 || review_count: 6 || 
+Katherine --> yelping_since: 2008 06 || votes:  funny 0 useful 3 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 4 6 || review_count: 5 || 
+Katherine --> yelping_since: 2013 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2014 08 || votes:  funny 1 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 44 || review_count: 10 || 
+Katherine --> yelping_since: 2012 02 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2008 05 || votes:  funny 17 useful 81 cool 18  || name: Katherine || elite:  2015  || type: user || compliments:  plain 1 more 1 writer 1 funny 1 cool 2  || fans: 2 || average_stars: 3 94 || review_count: 73 || 
+Katherine --> yelping_since: 2013 12 || votes:  funny 0 useful 7 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 25 || review_count: 4 || 
+Katherine --> yelping_since: 2010 08 || votes:  funny 5 useful 16 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 4 09 || review_count: 11 || 
+Katherine --> yelping_since: 2014 09 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2010 12 || votes:  funny 14 useful 48 cool 9  || name: Katherine || type: user || compliments:  plain 1 more 2  || fans: 0 || average_stars: 4 06 || review_count: 31 || 
+Katherine --> yelping_since: 2013 11 || votes:  funny 7 useful 10 cool 4  || name: Katherine || type: user || fans: 2 || average_stars: 4 11 || review_count: 8 || 
+Katherine --> yelping_since: 2009 08 || votes:  funny 22 useful 46 cool 19  || name: Katherine || type: user || compliments:  note 1 writer 1 cool 1  || fans: 1 || average_stars: 4 38 || review_count: 13 || 
+Katherine --> yelping_since: 2010 05 || votes:  funny 41 useful 108 cool 42  || name: Katherine || elite:  2015  || type: user || compliments:  plain 3 hot 1 cool 3 funny 2 more 1  || fans: 6 || average_stars: 4 2 || review_count: 124 || 
+Katherine --> yelping_since: 2013 02 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 03 || votes:  funny 7 useful 10 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 0 || review_count: 5 || 
+Katherine --> yelping_since: 2008 06 || votes:  funny 0 useful 10 cool 4  || name: Katherine || type: user || compliments:  cool 1  || fans: 0 || average_stars: 3 87 || review_count: 23 || 
+Katherine --> yelping_since: 2014 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 12 || votes:  funny 1 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2012 10 || votes:  funny 0 useful 4 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 57 || review_count: 7 || 
+Katherine --> yelping_since: 2014 08 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2013 04 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2009 06 || votes:  funny 4 useful 77 cool 6  || name: Katherine || type: user || fans: 1 || average_stars: 3 52 || review_count: 23 || 
+Katherine --> yelping_since: 2011 08 || votes:  funny 1 useful 12 cool 1  || name: Katherine || type: user || compliments:  photos 1 hot 1 writer 2  || fans: 0 || average_stars: 4 56 || review_count: 9 || 
+Katherine --> yelping_since: 2013 04 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 03 || votes:  funny 3 useful 8 cool 2  || name: Katherine || type: user || compliments:  profile 1 cool 1  || fans: 0 || average_stars: 3 93 || review_count: 15 || 
+Katherine --> yelping_since: 2010 09 || votes:  funny 2 useful 6 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 4 || review_count: 5 || 
+Katherine --> yelping_since: 2008 07 || votes:  funny 215 useful 508 cool 273  || name: Katherine || elite:  2010 2011 2012 2013 2014 2015  || type: user || compliments:  profile 5 cute 11 funny 8 plain 51 writer 17 list 2 note 20 photos 17 hot 48 more 5 cool 43  || fans: 32 || average_stars: 3 53 || review_count: 361 || 
+Katherine --> yelping_since: 2011 01 || votes:  funny 16 useful 66 cool 27  || name: Katherine || type: user || compliments:  plain 1 writer 6 cool 1  || fans: 1 || average_stars: 3 93 || review_count: 41 || 
+Katherine --> yelping_since: 2011 10 || votes:  funny 29 useful 55 cool 23  || name: Katherine || type: user || compliments:  plain 5 writer 1 note 1 photos 1 hot 2 cool 2  || fans: 2 || average_stars: 3 23 || review_count: 55 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 2 useful 2 cool 1  || name: Katherine || type: user || compliments:  note 1  || fans: 0 || average_stars: 3 33 || review_count: 3 || 
+Katherine --> yelping_since: 2015 01 || votes:  funny 0 useful 3 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 12 || review_count: 8 || 
+Katherine --> yelping_since: 2011 03 || votes:  funny 19 useful 80 cool 20  || name: Katherine || type: user || fans: 1 || average_stars: 3 22 || review_count: 61 || 
+Katherine --> yelping_since: 2013 03 || votes:  funny 18 useful 15 cool 4  || name: Katherine || type: user || compliments:  cool 1  || fans: 1 || average_stars: 3 27 || review_count: 10 || 
+Katherine --> yelping_since: 2012 02 || votes:  funny 0 useful 3 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 6 || 
+Katherine --> yelping_since: 2013 09 || votes:  funny 1 useful 3 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 4 07 || review_count: 28 || 
+Katherine --> yelping_since: 2012 03 || votes:  funny 78 useful 352 cool 117  || name: Katherine || elite:  2012 2013 2014 2015  || type: user || compliments:  funny 2 plain 10 writer 9 list 1 note 4 hot 9 more 2 cool 18  || fans: 10 || average_stars: 4 29 || review_count: 239 || 
+Katherine --> yelping_since: 2013 06 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 33 || review_count: 4 || 
+Katherine --> yelping_since: 2009 06 || votes:  funny 89 useful 250 cool 70  || name: Katherine || elite:  2013  || type: user || compliments:  funny 3 cute 1 plain 4 writer 2 note 1 photos 2 hot 1 cool 2  || fans: 2 || average_stars: 3 25 || review_count: 137 || 
+Katherine --> yelping_since: 2012 01 || votes:  funny 6 useful 23 cool 7  || name: Katherine || type: user || compliments:  funny 1 plain 1  || fans: 1 || average_stars: 3 5 || review_count: 6 || 
+Katherine --> yelping_since: 2012 05 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2010 01 || votes:  funny 43 useful 215 cool 91  || name: Katherine || type: user || compliments:  profile 1 plain 4 writer 1 note 1 hot 1 cool 1 more 1  || fans: 72 || average_stars: 4 14 || review_count: 83 || 
+Katherine --> yelping_since: 2015 08 || votes:  funny 0 useful 0 cool 1  || name: Katherine || type: user || fans: 1 || average_stars: 4 0 || review_count: 6 || 
+Katherine --> yelping_since: 2012 11 || votes:  funny 23 useful 47 cool 10  || name: Katherine || type: user || fans: 1 || average_stars: 4 72 || review_count: 42 || 
+Katherine --> yelping_since: 2012 05 || votes:  funny 7 useful 18 cool 4  || name: Katherine || type: user || compliments:  note 1 writer 1  || fans: 0 || average_stars: 4 17 || review_count: 35 || 
+Katherine --> yelping_since: 2011 01 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 0 || review_count: 2 || 
+Katherine --> yelping_since: 2013 06 || votes:  funny 0 useful 4 cool 4  || name: Katherine || type: user || fans: 0 || average_stars: 3 96 || review_count: 24 || 
+Katherine --> yelping_since: 2015 03 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2013 08 || votes:  funny 80 useful 283 cool 189  || name: Katherine || elite:  2015  || type: user || compliments:  plain 2 writer 1 note 2 photos 6 hot 2 cool 2  || fans: 9 || average_stars: 4 24 || review_count: 326 || 
+Katherine --> yelping_since: 2014 05 || votes:  funny 1 useful 2 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 4 67 || review_count: 3 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 1 || 
+Katherine --> yelping_since: 2010 09 || votes:  funny 9 useful 34 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 2 9 || review_count: 21 || 
+Katherine --> yelping_since: 2013 08 || votes:  funny 0 useful 20 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 2 6 || review_count: 10 || 
+Katherine --> yelping_since: 2009 06 || votes:  funny 2 useful 9 cool 7  || name: Katherine || type: user || compliments:  writer 1 cool 3  || fans: 1 || average_stars: 4 6 || review_count: 5 || 
+Katherine --> yelping_since: 2014 03 || votes:  funny 0 useful 8 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 6 || 
+Katherine --> yelping_since: 2014 10 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2010 12 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2015 05 || votes:  funny 1 useful 4 cool 1  || name: Katherine || type: user || compliments:  hot 1 more 1  || fans: 0 || average_stars: 4 4 || review_count: 5 || 
+Katherine --> yelping_since: 2010 01 || votes:  funny 0 useful 5 cool 1  || name: Katherine || type: user || fans: 4 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2010 01 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 75 || review_count: 4 || 
+Katherine --> yelping_since: 2014 11 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2008 07 || votes:  funny 29 useful 141 cool 38  || name: Katherine || elite:  2012  || type: user || compliments:  profile 2 funny 2 plain 2 writer 2 note 3 hot 2 cool 2  || fans: 4 || average_stars: 3 76 || review_count: 120 || 
+Katherine --> yelping_since: 2009 06 || votes:  funny 69 useful 243 cool 64  || name: Katherine || elite:  2010  || type: user || compliments:  plain 8 writer 8 list 2 note 3 hot 1 cool 5 more 2  || fans: 6 || average_stars: 3 49 || review_count: 147 || 
+Katherine --> yelping_since: 2013 03 || votes:  funny 0 useful 18 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 3 67 || review_count: 24 || 
+Katherine --> yelping_since: 2011 07 || votes:  funny 0 useful 3 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 2 67 || review_count: 4 || 
+Katherine --> yelping_since: 2011 07 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2015 08 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 1 || 
+Katherine --> yelping_since: 2015 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 2 || 
+Katherine --> yelping_since: 2009 06 || votes:  funny 14 useful 125 cool 45  || name: Katherine || type: user || compliments:  plain 5 hot 1 cool 2  || fans: 3 || average_stars: 4 61 || review_count: 54 || 
+Katherine --> yelping_since: 2014 01 || votes:  funny 0 useful 4 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 82 || review_count: 11 || 
+Katherine --> yelping_since: 2011 10 || votes:  funny 1 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2010 06 || votes:  funny 117 useful 469 cool 163  || name: Katherine || elite:  2011 2012 2013 2014 2015  || type: user || compliments:  funny 9 plain 6 writer 13 note 6 photos 1 hot 6 more 4 cool 9  || fans: 7 || average_stars: 4 03 || review_count: 423 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 11 useful 65 cool 19  || name: Katherine || elite:  2015  || type: user || compliments:  plain 3 hot 2 writer 1 funny 2 more 2  || fans: 1 || average_stars: 3 81 || review_count: 74 || 
+Katherine --> yelping_since: 2014 10 || votes:  funny 0 useful 4 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 25 || review_count: 4 || 
+Katherine --> yelping_since: 2012 10 || votes:  funny 3 useful 12 cool 0  || name: Katherine || type: user || compliments:  plain 1 cool 1  || fans: 0 || average_stars: 3 55 || review_count: 24 || 
+Katherine --> yelping_since: 2015 05 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 75 || review_count: 4 || 
+Katherine --> yelping_since: 2008 10 || votes:  funny 102 useful 468 cool 164  || name: Katherine || elite:  2014 2015  || type: user || compliments:  profile 2 funny 7 plain 40 writer 18 note 10 photos 2 hot 23 more 3 cool 35  || fans: 15 || average_stars: 3 4 || review_count: 182 || 
+Katherine --> yelping_since: 2015 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 1 || 
+Katherine --> yelping_since: 2008 08 || votes:  funny 36 useful 98 cool 34  || name: Katherine || type: user || compliments:  funny 1 plain 1 cool 1  || fans: 1 || average_stars: 4 36 || review_count: 63 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 17 || review_count: 6 || 
+Katherine --> yelping_since: 2010 04 || votes:  funny 11 useful 98 cool 44  || name: Katherine || elite:  2015  || type: user || compliments:  profile 1 funny 3 plain 2 writer 5 note 5 hot 3 cool 2  || fans: 2 || average_stars: 4 46 || review_count: 53 || 
+Katherine --> yelping_since: 2014 03 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 4 || 
+Katherine --> yelping_since: 2015 03 || votes:  funny 0 useful 7 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2011 12 || votes:  funny 0 useful 3 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 0 useful 3 cool 4  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 6 || 
+Katherine --> yelping_since: 2008 01 || votes:  funny 149 useful 522 cool 141  || name: Katherine || elite:  2010 2011  || type: user || compliments:  funny 6 plain 5 writer 5 note 13 hot 4 cool 9 more 2  || fans: 8 || average_stars: 3 65 || review_count: 367 || 
+Katherine --> yelping_since: 2014 02 || votes:  funny 0 useful 1 cool 3  || name: Katherine || type: user || compliments:  funny 2  || fans: 0 || average_stars: 4 75 || review_count: 4 || 
+Katherine --> yelping_since: 2010 11 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2008 05 || votes:  funny 0 useful 14 cool 2  || name: Katherine || type: user || compliments:  more 2  || fans: 0 || average_stars: 3 67 || review_count: 4 || 
+Katherine --> yelping_since: 2012 10 || votes:  funny 0 useful 8 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 2 || review_count: 5 || 
+Katherine --> yelping_since: 2015 06 || votes:  funny 6 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 6 || 
+Katherine --> yelping_since: 2013 10 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2008 08 || votes:  funny 0 useful 2 cool 4  || name: Katherine || type: user || compliments:  cool 1  || fans: 0 || average_stars: 4 25 || review_count: 8 || 
+Katherine --> yelping_since: 2012 08 || votes:  funny 3 useful 9 cool 4  || name: Katherine || type: user || fans: 1 || average_stars: 3 4 || review_count: 5 || 
+Katherine --> yelping_since: 2013 03 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2010 10 || votes:  funny 4 useful 5 cool 5  || name: Katherine || type: user || compliments:  cute 1  || fans: 0 || average_stars: 3 6 || review_count: 5 || 
+Katherine --> yelping_since: 2014 03 || votes:  funny 1 useful 8 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 2 4 || review_count: 5 || 
+Katherine --> yelping_since: 2008 08 || votes:  funny 249 useful 529 cool 201  || name: Katherine || elite:  2010 2011 2012 2013 2014 2015  || type: user || compliments:  profile 4 cute 4 funny 6 plain 36 writer 13 list 1 note 13 photos 3 hot 34 cool 37  || fans: 34 || average_stars: 3 38 || review_count: 641 || 
+Katherine --> yelping_since: 2013 06 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2013 06 || votes:  funny 3 useful 41 cool 8  || name: Katherine || type: user || compliments:  note 1 plain 1  || fans: 0 || average_stars: 3 81 || review_count: 43 || 
+Katherine --> yelping_since: 2012 06 || votes:  funny 2 useful 17 cool 3  || name: Katherine || type: user || fans: 0 || average_stars: 3 68 || review_count: 17 || 
+Katherine --> yelping_since: 2015 10 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 1 || 
+Katherine --> yelping_since: 2007 08 || votes:  funny 141 useful 396 cool 132  || name: Katherine || elite:  2007 2008  || type: user || compliments:  profile 2 funny 8 cute 1 plain 11 writer 1 list 4 note 3 photos 3 hot 12 more 1 cool 13  || fans: 10 || average_stars: 3 77 || review_count: 113 || 
+Katherine --> yelping_since: 2011 04 || votes:  funny 0 useful 3 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 2 || 
+Katherine --> yelping_since: 2014 09 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2007 08 || votes:  funny 117 useful 212 cool 113  || name: Katherine || elite:  2008 2009  || type: user || compliments:  cute 2 funny 1 plain 12 writer 2 note 4 hot 3 cool 12 more 3  || fans: 7 || average_stars: 3 91 || review_count: 257 || 
+Katherine --> yelping_since: 2015 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2012 05 || votes:  funny 0 useful 15 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 71 || review_count: 25 || 
+Katherine --> yelping_since: 2011 09 || votes:  funny 948 useful 1333 cool 974  || name: Katherine || elite:  2014 2015  || type: user || compliments:  profile 21 funny 30 cute 22 plain 104 writer 120 note 33 photos 26 hot 109 more 24 cool 159  || fans: 18 || average_stars: 4 08 || review_count: 139 || 
+Katherine --> yelping_since: 2013 05 || votes:  funny 1 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2013 02 || votes:  funny 5 useful 39 cool 7  || name: Katherine || type: user || compliments:  plain 1 photos 1  || fans: 1 || average_stars: 3 83 || review_count: 46 || 
+Katherine --> yelping_since: 2012 02 || votes:  funny 72 useful 277 cool 152  || name: Katherine || elite:  2013  || type: user || compliments:  funny 20 plain 82 writer 12 note 42 photos 3 hot 46 cool 63 more 2  || fans: 22 || average_stars: 3 95 || review_count: 155 || 
+Katherine --> yelping_since: 2008 09 || votes:  funny 140 useful 669 cool 274  || name: Katherine || elite:  2014 2015  || type: user || compliments:  profile 1 cute 1 funny 5 plain 62 writer 26 note 15 photos 7 hot 41 cool 44  || fans: 19 || average_stars: 3 7 || review_count: 422 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 5 || review_count: 2 || 
+Katherine --> yelping_since: 2015 10 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2012 10 || votes:  funny 9 useful 29 cool 4  || name: Katherine || type: user || compliments:  funny 1 more 1 cool 1  || fans: 0 || average_stars: 3 77 || review_count: 13 || 
+Katherine --> yelping_since: 2011 11 || votes:  funny 1 useful 16 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 3 64 || review_count: 13 || 
+Katherine --> yelping_since: 2010 01 || votes:  funny 2 useful 44 cool 5  || name: Katherine || type: user || compliments:  note 1 more 1  || fans: 0 || average_stars: 3 88 || review_count: 23 || 
+Katherine --> yelping_since: 2010 06 || votes:  funny 10 useful 33 cool 8  || name: Katherine || type: user || compliments:  note 1 hot 1 cool 1  || fans: 2 || average_stars: 3 88 || review_count: 14 || 
+Katherine --> yelping_since: 2015 04 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2012 05 || votes:  funny 0 useful 5 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 14 || review_count: 7 || 
+Katherine --> yelping_since: 2014 02 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || compliments:  note 1  || fans: 0 || average_stars: 2 33 || review_count: 3 || 
+Katherine --> yelping_since: 2011 07 || votes:  funny 3 useful 13 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 3 52 || review_count: 21 || 
+Katherine --> yelping_since: 2013 07 || votes:  funny 1 useful 3 cool 2  || name: Katherine || type: user || fans: 1 || average_stars: 2 33 || review_count: 3 || 
+Katherine --> yelping_since: 2014 05 || votes:  funny 0 useful 5 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2012 07 || votes:  funny 2 useful 14 cool 3  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 3 78 || review_count: 9 || 
+Katherine --> yelping_since: 2014 09 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2008 10 || votes:  funny 23 useful 54 cool 15  || name: Katherine || type: user || fans: 1 || average_stars: 3 13 || review_count: 51 || 
+Katherine --> yelping_since: 2008 10 || votes:  funny 12 useful 26 cool 9  || name: Katherine || type: user || fans: 1 || average_stars: 3 62 || review_count: 36 || 
+Katherine --> yelping_since: 2012 04 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 4 || 
+Katherine --> yelping_since: 2012 10 || votes:  funny 197 useful 356 cool 167  || name: Katherine || type: user || compliments:  profile 2 funny 18 cute 5 plain 22 writer 8 note 12 photos 7 hot 19 more 4 cool 25  || fans: 6 || average_stars: 3 2 || review_count: 183 || 
+Katherine --> yelping_since: 2015 08 || votes:  funny 0 useful 3 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 5 || review_count: 5 || 
+Katherine --> yelping_since: 2012 10 || votes:  funny 1 useful 5 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 3 67 || review_count: 18 || 
+Katherine --> yelping_since: 2014 01 || votes:  funny 0 useful 4 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 57 || review_count: 7 || 
+Katherine --> yelping_since: 2014 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2008 10 || votes:  funny 313 useful 823 cool 463  || name: Katherine || elite:  2010 2011 2012 2013 2014 2015  || type: user || compliments:  profile 10 cute 8 funny 6 plain 34 writer 47 list 5 note 15 photos 19 hot 47 more 6 cool 71  || fans: 36 || average_stars: 4 08 || review_count: 530 || 
+Katherine --> yelping_since: 2011 12 || votes:  funny 2 useful 2 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 11 || 
+Katherine --> yelping_since: 2009 08 || votes:  funny 76 useful 224 cool 57  || name: Katherine || elite:  2014 2015  || type: user || compliments:  profile 2 funny 1 plain 2 writer 1 note 3 photos 1 hot 1 more 1 cool 5  || fans: 7 || average_stars: 3 88 || review_count: 130 || 
+Katherine --> yelping_since: 2015 07 || votes:  funny 24 useful 38 cool 24  || name: Katherine || type: user || compliments:  note 1 plain 2 writer 1  || fans: 1 || average_stars: 3 55 || review_count: 66 || 
+Katherine --> yelping_since: 2012 10 || votes:  funny 10 useful 44 cool 30  || name: Katherine || elite:  2015  || type: user || compliments:  note 1 plain 2 hot 3 writer 4 cool 4  || fans: 5 || average_stars: 4 25 || review_count: 31 || 
+Katherine --> yelping_since: 2010 04 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2010 10 || votes:  funny 2 useful 43 cool 9  || name: Katherine || type: user || compliments:  list 1  || fans: 1 || average_stars: 3 94 || review_count: 53 || 
+Katherine --> yelping_since: 2014 06 || votes:  funny 4 useful 5 cool 4  || name: Katherine || type: user || compliments:  note 1  || fans: 0 || average_stars: 4 08 || review_count: 13 || 
+Katherine --> yelping_since: 2013 02 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 1 || 
+Katherine --> yelping_since: 2010 06 || votes:  funny 116 useful 303 cool 125  || name: Katherine || elite:  2011 2012 2014 2015  || type: user || compliments:  profile 2 funny 7 plain 3 writer 21 note 6 photos 1 hot 16 more 7 cool 13  || fans: 7 || average_stars: 4 17 || review_count: 158 || 
+Katherine --> yelping_since: 2013 11 || votes:  funny 0 useful 0 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2013 10 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 1 0 || review_count: 2 || 
+Katherine --> yelping_since: 2013 02 || votes:  funny 0 useful 2 cool 1  || name: Katherine || type: user || fans: 0 || average_stars: 4 33 || review_count: 3 || 
+Katherine --> yelping_since: 2011 12 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2014 11 || votes:  funny 2 useful 4 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 2 0 || review_count: 2 || 
+Katherine --> yelping_since: 2015 12 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2008 11 || votes:  funny 150 useful 500 cool 189  || name: Katherine || elite:  2010 2011 2012 2013  || type: user || compliments:  cute 1 funny 2 plain 14 writer 4 note 15 photos 3 hot 6 cool 17 more 1  || fans: 7 || average_stars: 3 79 || review_count: 501 || 
+Katherine --> yelping_since: 2015 05 || votes:  funny 0 useful 2 cool 0  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 1 0 || review_count: 2 || 
+Katherine --> yelping_since: 2010 09 || votes:  funny 3 useful 9 cool 1  || name: Katherine || type: user || compliments:  note 1 funny 1 cool 2  || fans: 0 || average_stars: 3 44 || review_count: 8 || 
+Katherine --> yelping_since: 2010 06 || votes:  funny 4 useful 15 cool 5  || name: Katherine || type: user || compliments:  plain 2 hot 2 cool 3  || fans: 3 || average_stars: 4 41 || review_count: 17 || 
+Katherine --> yelping_since: 2014 01 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 0 || review_count: 1 || 
+Katherine --> yelping_since: 2014 04 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2013 07 || votes:  funny 16 useful 51 cool 26  || name: Katherine || type: user || compliments:  note 1 plain 4 hot 1 more 1 cool 6  || fans: 1 || average_stars: 4 33 || review_count: 39 || 
+Katherine --> yelping_since: 2015 09 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 1 || 
+Katherine --> yelping_since: 2011 12 || votes:  funny 4 useful 4 cool 2  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 15 || 
+Katherine --> yelping_since: 2012 08 || votes:  funny 10 useful 32 cool 16  || name: Katherine || type: user || compliments:  plain 3 more 1  || fans: 1 || average_stars: 4 11 || review_count: 39 || 
+Katherine --> yelping_since: 2014 08 || votes:  funny 0 useful 0 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 5 0 || review_count: 2 || 
+Katherine --> yelping_since: 2014 08 || votes:  funny 0 useful 6 cool 1  || name: Katherine || type: user || fans: 1 || average_stars: 3 3 || review_count: 8 || 
+Katherine --> yelping_since: 2012 06 || votes:  funny 1 useful 8 cool 3  || name: Katherine || type: user || fans: 0 || average_stars: 4 0 || review_count: 7 || 
+Katherine --> yelping_since: 2014 07 || votes:  funny 6 useful 12 cool 8  || name: Katherine || type: user || compliments:  cool 1  || fans: 0 || average_stars: 3 94 || review_count: 17 || 
+Katherine --> yelping_since: 2013 11 || votes:  funny 0 useful 5 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 3 0 || review_count: 2 || 
+Katherine --> yelping_since: 2011 11 || votes:  funny 2 useful 32 cool 3  || name: Katherine || type: user || fans: 0 || average_stars: 2 4 || review_count: 21 || 
+Katherine --> yelping_since: 2013 07 || votes:  funny 6 useful 37 cool 25  || name: Katherine || type: user || compliments:  plain 1  || fans: 0 || average_stars: 3 4 || review_count: 43 || 
+Katherine --> yelping_since: 2010 10 || votes:  funny 0 useful 10 cool 1  || name: Katherine || type: user || compliments:  cool 1  || fans: 1 || average_stars: 5 0 || review_count: 11 || 
+Katherine --> yelping_since: 2007 03 || votes:  funny 2 useful 8 cool 5  || name: Katherine || type: user || fans: 0 || average_stars: 3 29 || review_count: 14 || 
+Katherine --> yelping_since: 2008 11 || votes:  funny 6 useful 29 cool 3  || name: Katherine || type: user || compliments:  plain 1 writer 1 funny 1  || fans: 0 || average_stars: 4 0 || review_count: 8 || 
+Katherine --> yelping_since: 2015 06 || votes:  funny 0 useful 1 cool 0  || name: Katherine || type: user || fans: 0 || average_stars: 2 0 || review_count: 2 || 
