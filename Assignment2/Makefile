@@ -1,8 +1,9 @@
 CC=gcc
-CPPFLAGS=-Wall  -Werror  -O3
+#add -O3 for testing
+CPPFLAGS=-Wall  -Werror  -g
 #CPPFLAGS=   -g
 
-SRC=src/utils.o src/priority_queue.o src/ai.o src/2048.o 
+SRC=src/utils.o src/priority_queue.o src/ai.o src/2048.o
 TARGET=2048
 
 all: $(SRC)

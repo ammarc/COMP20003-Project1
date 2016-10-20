@@ -77,7 +77,7 @@ bool execute_keyboard( uint8_t board[SIZE][SIZE], uint32_t* score, char c){
 		default: success = false;
 		}
 	return success;
-	
+
 }
 
 void print_usage(){
@@ -89,12 +89,12 @@ void print_usage(){
 
 
 int main(int argc, char *argv[]) {
-    
-        uint32_t score=0;	
+
+        uint32_t score=0;
 	uint8_t board[SIZE][SIZE];
 
 	int max_depth=0;
-	
+
 	char c;
 	bool success;
 	bool ai_run = false;
@@ -108,8 +108,8 @@ int main(int argc, char *argv[]) {
 	    print_usage();
 	    return 0;
 	}
-	
-	if (argc > 1 ) {	    
+
+	if (argc > 1 ) {
 		ai_run = true;
 		initialize_ai();
 		if( strcmp(argv[2],"avg")==0 ){
@@ -124,7 +124,7 @@ int main(int argc, char *argv[]) {
 		}
 
 		sscanf (argv[3],"%d",&max_depth);
-		
+
 		if(argc == 5 && strcmp(argv[4],"slow")==0 )
 		    slow = true;
 	}
@@ -135,15 +135,15 @@ int main(int argc, char *argv[]) {
 	/**
 	 *  register signal handler for when ctrl-c is pressed
 	 */
-	
-	signal(SIGINT, signal_callback_handler);	
+
+	signal(SIGINT, signal_callback_handler);
 	setBufferedInput(false);
 
 	/**
 	 * Create initial state
 	 */
 	initBoard(board, &score);
-	
+
 	while (true) {
 	    /**
 	     * AI execution mode
@@ -157,7 +157,7 @@ int main(int argc, char *argv[]) {
 		/**
 		 * Execute the selected action
 		 */
-		success = execute_move_t( board, &score, selected_move);		    		    
+		success = execute_move_t( board, &score, selected_move);
 	    }
 	    else{
 		/**
@@ -181,21 +181,21 @@ int main(int argc, char *argv[]) {
 		    }
 		    drawBoard(board,score);
 		}
-	    }		
+	    }
 
 	    /**
 	     * If selected action merges tiles,
 	     * then, add a random tile and redraw the board
 	     */
 	    if (success) {
-		
+
 		drawBoard(board,score);
 
 		if(slow) usleep(150000); //0.15 seconds
 
 		addRandom(board);
 		drawBoard(board,score);
-		
+
 		if (gameEnded(board)) {
 		    printf("         GAME OVER          \n");
 		    break;
@@ -203,11 +203,11 @@ int main(int argc, char *argv[]) {
 	    }
 
 	}
-	
+
 	setBufferedInput(true);
 
 	printf("\033[?25h\033[m");
 
-	
+
 	return EXIT_SUCCESS;
 }
