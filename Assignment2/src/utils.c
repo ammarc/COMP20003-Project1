@@ -273,5 +273,5 @@ bool execute_move_t( uint8_t  board[SIZE][SIZE], uint32_t* score, move_t move){
 		default: success = false;
 		}
 	return success;
-	
+
 }

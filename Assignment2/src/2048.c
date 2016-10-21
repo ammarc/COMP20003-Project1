@@ -90,16 +90,31 @@ void print_usage(){
 
 int main(int argc, char *argv[]) {
 
-        uint32_t score=0;
+    uint32_t score=0;
 	uint8_t board[SIZE][SIZE];
 
+	/** Variables to track data for the output file */
 	int max_depth=0;
+	int node_count=0;
+	int expand_count=0;
+	int max_tile=0;
+	clock_t t1, t2;
+	float search_time;
+	int i, j;
 
 	char c;
 	bool success;
 	bool ai_run = false;
 	propagation_t propagation=max;
 	bool slow = false;
+
+	/** Opening file to output to */
+	FILE *f = fopen("output.txt", "w");
+	if (f == NULL)
+	{
+    	printf("Error opening file!\n");
+    	exit(1);
+	}
 
 	/**
 	 * Parsing command line options
@@ -144,6 +159,7 @@ int main(int argc, char *argv[]) {
 	 */
 	initBoard(board, &score);
 
+	t1 = clock();
 	while (true) {
 	    /**
 	     * AI execution mode
@@ -152,7 +168,8 @@ int main(int argc, char *argv[]) {
 		/**
 		 * ****** HERE IS WHERE YOUR SOLVER IS CALLED
 		 */
-		move_t selected_move = get_next_move( board, max_depth, propagation );
+		move_t selected_move = get_next_move( board, max_depth, propagation,
+											&node_count, &expand_count);
 
 		/**
 		 * Execute the selected action
@@ -196,6 +213,18 @@ int main(int argc, char *argv[]) {
 		addRandom(board);
 		drawBoard(board,score);
 
+		/** Nested loops to find the max tile on board */
+		for (i = 0; i < SIZE; i++)
+		{
+			for (j = 0; j< SIZE; j++)
+			{
+				if ((int)getTile(board, i, j) > max_tile)
+				{
+					max_tile = (int)getTile(board, i, j);
+				}
+			}
+		}
+
 		if (gameEnded(board)) {
 		    printf("         GAME OVER          \n");
 		    break;
@@ -203,11 +232,26 @@ int main(int argc, char *argv[]) {
 	    }
 
 	}
-	printf("%d\n", score);
+	t2 = clock();
+
+	/** These clocks are used to check the time for the graph search. Since
+	  * they return the time in terms of the clocks of the CUP, we need
+	  * to divide by the constant CLOCKS_PER_SEC */
+	search_time = (float)(t2 - t1) / CLOCKS_PER_SEC;
+
 	setBufferedInput(true);
 
 	printf("\033[?25h\033[m");
 
+	/** Output to output.txt */
+	fprintf(f, "Generated = %d\n", node_count);
+	fprintf(f, "Expanded = %d\n", expand_count);
+	fprintf(f, "Time = %.2f seconds\n", search_time);
+	fprintf(f, "Expanded/Second = %d\n", (int) (expand_count / search_time));
+	fprintf(f, "Max Tile = %d\n", max_tile);
+	fprintf(f, "Score = %d\n", score);
+
+	fclose(f);
 
 	return EXIT_SUCCESS;
 }
