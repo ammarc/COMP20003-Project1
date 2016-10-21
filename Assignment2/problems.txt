@@ -1,3 +1,0 @@
-How to free all memory?
-
-Add -lm in dimefox for math.h
