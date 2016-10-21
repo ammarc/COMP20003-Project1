@@ -29,6 +29,6 @@ node_t* apply_action(node_t* node, move_t action, uint8_t board[SIZE][SIZE]);
 
 void copy_board(uint8_t src[SIZE][SIZE], uint8_t dest[SIZE][SIZE]);
 
-void propagate_score(node_t* node, move_t* best_action, uint32_t* max_score);
+void propagate_score(node_t* node, move_t* best_action, uint32_t* max_score, int first_action[SIZE]);
 
 #endif

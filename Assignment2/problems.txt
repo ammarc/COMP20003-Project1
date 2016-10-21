@@ -1,0 +1,14 @@
+Aux vars
+Explored array init
+How to init PQ?
+
+When is the heap sorted with priority?
+How to free all memory?
+Difference between average and maximum score return?
+
+Remember to add output
+Add the possibility of adding a random 2/4 in the apply action function
+Note that pushing into the explored Heap array is an expensive task
+Only propagate max not avg!
+
+Add -lm in dimefox for math.h

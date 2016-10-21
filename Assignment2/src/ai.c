@@ -1,5 +1,6 @@
 #include <time.h>
 #include <stdlib.h>
+#include <math.h>
 #include "ai.h"
 #include "utils.h"
 #include "priority_queue.h"
@@ -18,21 +19,26 @@ void initialize_ai(){
 move_t get_next_move(uint8_t board[SIZE][SIZE], int max_depth, propagation_t propagation)
 {
 	//we keep the random variable here if our Algorithm doesn't set one
+
 	move_t best_action = rand() % 4;
 	uint32_t max_score = 0;
+	int i;
+
 	//move_t best_action;
 	//creating a new graph (a root node)
 	node_t* node;
 	graph_init(&node);
 	node->parent = NULL;
 
+	//creating an array to store only the priorities of the first actions
+	int first_action[SIZE];
+	for (i = 0; i < SIZE; i++)
+	{
+		first_action[i] = -1;
+	}
 
 	//uint8_t** node_board = NULL;
 	copy_board(board, node->board);
-
-	//initBoard(board, &max_score);
-
-	//printf("%d %d\n", board[1][1], node->board[1][1]);
 
 	//Now, let us try to use the given heap as our explored array
 	//Since it will also contain nodes and will have to be dynamic
@@ -42,7 +48,7 @@ move_t get_next_move(uint8_t board[SIZE][SIZE], int max_depth, propagation_t pro
 
 	//Making frontier
 	struct heap frontier;
-	heap_init(&frontier);
+	heap_init(&frontier);  // memory leak
 
 	//Adding node to frontier
 	heap_push(&frontier, node);
@@ -50,7 +56,7 @@ move_t get_next_move(uint8_t board[SIZE][SIZE], int max_depth, propagation_t pro
 	while ((&frontier)->count != 0)
 	{
 		//assuming this is the pop() funciton
-		node = heap_delete(&frontier);
+		node = heap_delete(&frontier); //memory leak
 
 		heap_push(&exploredArr, node);
 
@@ -65,7 +71,7 @@ move_t get_next_move(uint8_t board[SIZE][SIZE], int max_depth, propagation_t pro
 				{
 					heap_push(&frontier, new_node);
 					//update best action
-					propagate_score(new_node, &best_action, &max_score);
+					propagate_score(new_node, &best_action, &max_score, first_action);
 					//if max must lead to max score and avg score for avg
 				}
 				else
@@ -80,26 +86,70 @@ move_t get_next_move(uint8_t board[SIZE][SIZE], int max_depth, propagation_t pro
 	}
 
 
-	//freeing that node
-	//free(node);
 
-	//free all explored nodes
-	/*
-	int i;
-	for (i = 0; i < (&exploredArr)->count; i++)
-	{
-		free((&exploredArr)->heaparr[i]);
-	}
-	*/
-
-	//freeing the explored array and frontier
-	emptyPQ(&exploredArr);
-	emptyPQ(&frontier);
-
-	//free everything
 
 	//pick best action randomly
 
+	//now let us pick the most average case
+	if (propagation == 1)
+	{
+
+		//double avg_score = 0.0;
+		//double deviation = 10000000.0;
+		//int count = 0;
+		int array_max = 0;
+
+		for (i = 0; i < SIZE; i++)
+		{
+			if (first_action[i] != -1)
+			{
+				first_action[i] = (int) (first_action[i] * 1.0 / max_depth * 1.0);
+				//count++;
+			}
+
+		}
+
+		for (i = 0; i < SIZE; i++)
+		{
+			if (first_action[i] > array_max)
+			{
+				array_max = first_action[i];
+				best_action = (move_t) i;
+			}
+		}
+		/*
+		avg_score = avg_score * 1.0 / count;
+		//printf("%d ", count);
+		for (i = 0; i < SIZE; i++)
+		{
+			if (first_action[i] != -1)
+			{
+
+				if (fabs(avg_score - first_action[i]) < deviation)
+				{
+					best_action = (move_t) i;
+					deviation = fabs(avg_score - first_action[i]);
+				}
+				else if (fabs(avg_score - first_action[i]) == deviation)
+				{
+					//breaking ties randomly
+					if ((rand() % 2) == 1)
+					{
+						best_action = (move_t) i;
+					}
+				}
+			}
+		}
+		*/
+	}
+
+
+	//freeing the explored array and frontier
+	emptyPQ(&exploredArr); //memory leak
+	emptyPQ(&frontier);
+	//free everything
+
+	//printf("hello\n");
 	return best_action;
 }
 
@@ -154,21 +204,6 @@ void copy_board(uint8_t src[SIZE][SIZE], uint8_t dest[SIZE][SIZE])
 	int i;
 	int j;
 
-	/*
-	if ((dest = malloc(SIZE * sizeof(uint8_t*))) == NULL)
-	{
-		printf("Error allocating memory...\n");
-	}
-
-	for (i = 0; i < SIZE; i++)
-	{
-
-  		if (( dest[i] = malloc(SIZE * sizeof(uint8_t))) == NULL )
-  		{
-			printf("Error allocating memory...\n");
-		}
-	}
-	*/
 	//Let us now copy the array content
 	for(i = 0; i < SIZE; i++)
 	{
@@ -177,28 +212,58 @@ void copy_board(uint8_t src[SIZE][SIZE], uint8_t dest[SIZE][SIZE])
 			dest[i][j] = src[i][j];
 		}
 	}
-
 }
 
-void propagate_score(node_t* node, move_t* best_action, uint32_t* max_score)
+void propagate_score(node_t* node, move_t* best_action, uint32_t* max_score, int first_action[SIZE])
 {
+	srand(time(NULL));
+	int i = rand() % 2;
 	while(node->parent != NULL)
 	{
-		if(((node->parent)->score + node->priority) > (node->parent)->priority)
+
+		if (((node->parent)->score + node->priority) > (node->parent)->priority)
 		{
 			(node->parent)->priority = node->priority + (node->parent)->score;
+			/*
+			if (propagation == 0)
+			{
+				(node->parent)->priority = node->priority + (node->parent)->score;
+			}
+			else
+			{
+				(node->parent)->priority = (node->parent)->score + node->priority;
+			}
+			*/
 		}
 
-
-		if (((node->parent)->parent == NULL) && (node->priority > *max_score))
+		if ((node->parent)->parent == NULL)
 		{
-			*max_score = node->priority;
-			//printf("max_score is %d\n", max_score);
-			*best_action = node->move;
+			if (node->priority > *max_score)
+			{
+				*max_score = node->priority;
+
+				//if move not in the possible move array -> add it in
+				*best_action = node->move;
+			}
+			else if (node->priority == *max_score)
+			{
+				//we can break any ties here randomly
+				if (i == 1)
+				{
+					*best_action = node->move;
+				}
+			}
+			//printf("%d\n", first_action[node->move]);
+
+			if ((int) node->priority > first_action[(int) node->move])
+			{
+				//printf("Setting action array...\n");
+				first_action[(int) node->move] = (int) node->priority;
+				//printf("%d\n", first_action[(int) node->move]);
+			}
+
+
 		}
-
-
-		//not sure about this:
 		node = node->parent;
 	}
 }

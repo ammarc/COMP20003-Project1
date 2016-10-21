@@ -1,6 +1,6 @@
 CC=gcc
 #add -O3 for testing
-CPPFLAGS=-Wall  -Werror  -g
+CPPFLAGS=-Wall  -Werror  -O3
 #CPPFLAGS=   -g
 
 SRC=src/utils.o src/priority_queue.o src/ai.o src/2048.o

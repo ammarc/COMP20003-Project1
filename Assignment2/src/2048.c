@@ -203,7 +203,7 @@ int main(int argc, char *argv[]) {
 	    }
 
 	}
-
+	printf("%d\n", score);
 	setBufferedInput(true);
 
 	printf("\033[?25h\033[m");
