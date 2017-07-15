@@ -1,6 +1,0 @@
-Generated = 1898334
-Expanded = 595395
-Time = 1.14 seconds
-Expanded/Second = 520372
-Max Tile = 512
-Score = 6512
