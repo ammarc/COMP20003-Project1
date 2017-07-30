@@ -1,5 +1,4 @@
 /* Created by: Ammar Ahmed
- * University of Melbourne ID: 728926
  */
 
 #include <stdio.h>
